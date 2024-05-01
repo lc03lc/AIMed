@@ -14,12 +14,12 @@
 
 ```txt
 --Checkpoints			模型检查点存放
---Models 				算法模型
+--Models 			算法模型
 --Processing			影像处理算法
 --Reconstruction		三维重建算法
 --Segmentation			影像分割算法
---tools					PyMed开发工具
---main.py				后端接口启动程序
+--tools				PyMed开发工具
+--main.py			后端接口启动程序
 --requirements.txt		安装需求说明
 ```
 
